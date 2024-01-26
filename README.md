@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90&animation&=scaleIncolor=##40AEF0&)
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=Curriculum&fontSize=90&animation&=scaleIncolor=##40AEF0&)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=ahnjinsung1&show_icons=true&theme=radical)](https://github.com/깃허브아이디)
 
