@@ -13,17 +13,12 @@
 
 ---
 
-* 1번
-* 2번
-- 1번
-- 2번
+* 현재 자바 공부중입니다 :joy:<br>
 
 
-- [프로젝트] (https://github.com/AhnJinSung1/Project1)
+- [프로젝트] (https://github.com/AhnJinSung1/Project1) <br>
 ```
 System.out.println("안녕?")
 ```
-:smirk:<br>
-:joy:<br>
-:rage:
+
 
