@@ -19,7 +19,7 @@
 - 2번
 
 
-- [네이버](https://naver.com)
+- [프로젝트] (https://github.com/AhnJinSung1/Project1)
 ```
 System.out.println("안녕?")
 ```
